@@ -39,3 +39,7 @@ Customers are divided into 5 clusters based on their spending and income pattern
 - Mall_Customers.csv
 - output.csv
 - README.md
+- MyOutput.pdf
+
+## Author :
+Rithika G
